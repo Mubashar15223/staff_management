@@ -17,7 +17,9 @@ class ExpensesController extends Controller
         return view('expenses.hostingServer.index');
     }
 
+
     /**
+     * add new line
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response
